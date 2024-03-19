@@ -16,7 +16,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github-readme-stats.vercel.app/api?username=pham-phong&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Statistics&disable_animations=true&theme=algolia"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pham-phong&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Statistics&disable_animations=true&theme=algolia"/>
      </p>
     </td>
   </tr>
@@ -46,16 +46,6 @@
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2>Contact Me</h2>
-      <br>
-      <a href="mailto:phamphongdhqn@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <br>
-    </div>
    </td>
   </tr>
 </table>
