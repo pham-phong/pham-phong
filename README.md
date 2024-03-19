@@ -20,34 +20,48 @@
      </p>
     </td>
   </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-     <br>
-     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-     <br>
-     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-   </td>
-  </tr>
 </table>
 
+
+<h2 align="left">🛠 &nbsp;Tech stack and Tools:</h2>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+        height="20" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+        height="20" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+        height="20" />
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+        height="20" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        height="20" />
+    <img src="https://element-plus.org/images/element-plus-logo.svg" height="20" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        height="20" />
+    <br>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        height="20" />
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="20" />
+    <br>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="20" />
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" height="20" />
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="20" />
+    <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery" height="20" />
+    <br>
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="20" />
+    <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github" height="20" />
+    <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab" height="20" />
+    <br>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"
+        height="20" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+        height="20" />
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
+        height="20" />
+</p>
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen) ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver) 
 ---
