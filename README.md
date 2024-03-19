@@ -22,7 +22,6 @@
   </tr>
 </table>
 
-
 <h2 align="left">🛠 &nbsp;Tech stack and Tools:</h2>
 
 <p align="left">
@@ -38,10 +37,11 @@
         height="20" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         height="20" />
-    <img src="https://element-plus.org/images/element-plus-logo.svg" height="20" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" height="20" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
         height="20" />
     <br>
+    <img src="https://element-plus.org/images/element-plus-logo.svg" height="20" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
         height="20" />
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="20" />
@@ -57,11 +57,12 @@
     <br>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"
         height="20" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+    <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue"
         height="20" />
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen"
+        height="20" />
+    <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver"
         height="20" />
 </p>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen) ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver) 
 ---
