@@ -1,6 +1,6 @@
 ### Hi, I'm PhongPV 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=pham-phong)
 <!--
 **pham-phong/pham-phong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
